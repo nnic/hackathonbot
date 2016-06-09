@@ -1,0 +1,22 @@
+{
+  "name": "hackathontestbot",
+  "version": "1.0.0",
+  "description": "Hackathon test bot",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnic/hackathonbot.git"
+  },
+  "author": "Nic Masters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnic/hackathonbot/issues"
+  },
+  "homepage": "https://github.com/nnic/hackathonbot#readme"
+}
